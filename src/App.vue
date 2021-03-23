@@ -14,11 +14,11 @@ export default {
     ProductPage
   },
 
-	data() {
-		return {
-			products: products
-		}
-	},
+  data() {
+    return {
+      products: products
+    }
+  },
 
 }
 </script>
